@@ -1,7 +1,5 @@
 ### Задача про менеджер задач:
 
-```python
-
 
 class Task:
     def __init__(self, description, due_date):
